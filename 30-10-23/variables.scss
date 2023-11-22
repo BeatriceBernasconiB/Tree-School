@@ -1,0 +1,22 @@
+//variabili
+
+//colors
+$primary-color: #ddebff;
+$dark-color: #abb2d8;
+$light-color: #ebdfff;
+$medium-color: #f0cbd8;
+
+//fonts
+@import url('https://fonts.googleapis.com/css2?family=Licorice&display=swap');
+$cursive-font:'Licorice';
+
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+$main-font: 'Karla', sans-serif;
+
+//mixin
+@mixin display-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+

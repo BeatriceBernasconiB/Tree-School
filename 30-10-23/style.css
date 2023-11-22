@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Licorice&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ddebff;
+}
+body .navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  justify-content: space-between;
+  border: #971616 solid 2px;
+  box-sizing: content-box;
+}
+body .h1 {
+  border: #971616 solid 2px;
+  font-family: "Licorice";
+  font-size: 20vw;
+  color: #abb2d8;
+  font-size: 20vw;
+  padding: 5vw;
+}
+body .image-menu {
+  width: 10vw;
+  height: 10vw;
+}/*# sourceMappingURL=style.css.map */
